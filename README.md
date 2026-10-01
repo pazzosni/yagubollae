@@ -27,7 +27,6 @@ KBO 야구 입문자를 위한 관람 도우미 앱 — 팀 프로젝트
 - [내가 올린 PR 목록 (merged)](https://github.com/neunglog-sys/KBO_coach/pulls?q=is%3Apr+author%3Apazzosni)
 
 ## 📷 스크린샷
-## 📷 스크린샷
 
 ### 🙋 내가 구현한 화면
 
