@@ -27,4 +27,38 @@ KBO 야구 입문자를 위한 관람 도우미 앱 — 팀 프로젝트
 - [내가 올린 PR 목록 (merged)](https://github.com/neunglog-sys/KBO_coach/pulls?q=is%3Apr+author%3Apazzosni)
 
 ## 📷 스크린샷
-(추가 예정)
+## 📷 스크린샷
+
+### 🙋 내가 구현한 화면
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/select2.png" width="200"/></td>
+    <td align="center"><img src="screenshots/damagochi.gif" width="200"/></td>
+    <td align="center"><img src="screenshots/calendar.png" width="200"/></td>
+    <td align="center"><img src="screenshots/scoreboard.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>야구짝꿍 설정</b><br/>성별 선택 · 닉네임 입력</td>
+    <td align="center"><b>다마고치 캐릭터</b><br/>레벨업 · 말풍선 시스템</td>
+    <td align="center"><b>MyRecordsView</b><br/>경기 일정 캘린더</td>
+    <td align="center"><b>KBO 공식 기록 연동</b><br/>스코어보드 · 선발 라인업</td>
+  </tr>
+</table>
+
+### 📱 앱 전체 화면 (팀 공동 작업)
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/login.png" width="200"/></td>
+    <td align="center"><img src="screenshots/select.png" width="200"/></td>
+    <td align="center"><img src="screenshots/main.png" width="200"/></td>
+    <td align="center"><img src="screenshots/chat.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>로그인</b></td>
+    <td align="center"><b>구단 선택</b></td>
+    <td align="center"><b>메인 홈</b></td>
+    <td align="center"><b>팀 채팅방</b></td>
+  </tr>
+</table>
